@@ -1,5 +1,9 @@
 # Brain Tumor Segmentation
 
+### NOTE.
+This repository is under development. First files regarding the presentation and the app are already available. 
+The files with the modeling will be uploaded soon.
+
 ## Content
 This repository centers around the Brain Tumor Segmentation Challenge 2020 (BraTS2020). 
 Glioblastomas are frequent brain tumors and show very aggressive characteristics. The 5-year survival rate is limited to 5-7 %.
